@@ -34,3 +34,4 @@ EL NOMBRE DE UN REPO SOLO DEBE DE TENER HASTA 25 CARACTERES PARA QUE CORRA BIEN 
 | PALIG | PALMX01001-FRONT | Proyecto Front para Mexicana de becas cliente PALIG | 
 | DEV-PORTAL | PORCL01001-TOOL | Proyecto Tool Developer Portal, documentación, Api reference | 
 | MEDISMART | ENROLLCL01001-MS | Microservicio de Enroll(Altas y bajas) y Autenticación  | 
+| MEDISMART | SCHEDCL01001-MS | Microservicio de Scheduler para buscar de forma masiva  | 
