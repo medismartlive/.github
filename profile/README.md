@@ -30,6 +30,7 @@ EL NOMBRE DE UN REPO SOLO DEBE DE TENER HASTA 25 CARACTERES PARA QUE CORRA BIEN 
 | MEDISMART | MEDCL02001-TOOL | Proyecto Backstage.io para developer portal interno | 
 | MEDISMART | MEDCL03001-TOOL | Proyecto Tool Mantenedor Seguros | 
 | MARKETING | MAREC01001-FRONT | Sitio de Ecuador Marketing | 
+| MARKETING | MARBO01001-FRONT | Sitio de Bolivia Marketing | 
 | BUK | BUKCL01001-ACL | Proyecto ACL para migracion desde Teledoc hacia Medismart | 
 | BCF | BCFCL01001-FRONT | Proyecto Front para Turbus de cliente BCF | 
 | PALIG | PALMX01001-FRONT | Proyecto Front para Mexicana de becas cliente PALIG | 
