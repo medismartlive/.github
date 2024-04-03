@@ -29,6 +29,7 @@ EL NOMBRE DE UN REPO SOLO DEBE DE TENER HASTA 25 CARACTERES PARA QUE CORRA BIEN 
 | MEDISMART | MEDCL01001-FRONT | Pagina customizada de error para sitio medismart | 
 | MEDISMART | MEDCL02001-TOOL | Proyecto Backstage.io para developer portal interno | 
 | MEDISMART | MEDCL03001-TOOL | Proyecto Tool Mantenedor Seguros | 
+| MARKETING | MARLP01001-FRONT | Landing Principal Marketing | 
 | MARKETING | MAREC01001-FRONT | Sitio de Ecuador Marketing | 
 | MARKETING | MARBO01001-FRONT | Sitio de Bolivia Marketing | 
 | MARKETING | MARPE01001-FRONT | Sitio de Peru Marketing | 
