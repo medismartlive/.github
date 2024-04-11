@@ -42,3 +42,5 @@ EL NOMBRE DE UN REPO SOLO DEBE DE TENER HASTA 25 CARACTERES PARA QUE CORRA BIEN 
 | MEDISMART | MEDGL01001-API-SCHD | Contrato API Scheduling o Agendamiento |
 | MEDISMART | ENCGL01001 | Encuesta NPS LATAM|
 | MEDISMART | DSMARTGL01001 | Sistema interno de gestión de datos para clientes, administrado por depto de Control de Gestión |
+| MEDISMART | EXAMPREVCL01001-MS | Microservicio de rotación de firmas de médicos, para examenes preventivos Chile |
+
