@@ -45,6 +45,6 @@ EL NOMBRE DE UN REPO SOLO DEBE DE TENER HASTA 25 CARACTERES PARA QUE CORRA BIEN 
 | MEDISMART | DSMARTGL01001 | Sistema interno de gestión de datos para clientes, administrado por depto de Control de Gestión |
 | MEDISMART | EXAMPREVCL01001-MS | Microservicio de rotación de firmas de médicos, para examenes preventivos Chile |
 | MEDISMART | VIDCALLMS01001-API | Microservicio de video llamadas WhereBy |
-| MEDISMART | PAYCL01001-API | Microservicio para API de Pagos |
-| MEDISMART | BILLINGCL01001-API | Microservicio para API de Facturación |
+| MEDISMART | PAYCL01001-MS | Microservicio para API de Pagos |
+| MEDISMART | BILLINGCL01001-MS | Microservicio para API de Facturación |
 
