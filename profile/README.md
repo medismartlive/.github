@@ -26,6 +26,7 @@ EL NOMBRE DE UN REPO SOLO DEBE DE TENER HASTA 25 CARACTERES PARA QUE CORRA BIEN 
 
 | CLIENTE  | PROYECTO | DESCRIPCIÓN |  
 | ---------- | ------------------------------------ | ----------------------------------------------- | 
+| MEDISMART | MEDCO01001 | FRONT Medismart Colombia y México en .NET | 
 | MEDISMART | SMARTCL01001-FRONT | Smartcheck | 
 | MEDISMART | MEDCL01001-FRONT | Pagina customizada de error para sitio medismart | 
 | MEDISMART | MEDCL02001-TOOL | Proyecto Backstage.io para developer portal interno | 
