@@ -26,6 +26,7 @@ EL NOMBRE DE UN REPO SOLO DEBE DE TENER HASTA 25 CARACTERES PARA QUE CORRA BIEN 
 
 | CLIENTE  | PROYECTO | DESCRIPCIÓN |  
 | ---------- | ------------------------------------ | ----------------------------------------------- | 
+| DOCWELL  | ECOMPICSI01001 | FRONT Docwell E-commerce Costa Rica en Next |
 | DOCWELL  | ECOMDOCCR01001 | FULL Docwell E-commerce Costa Rica en Next |  
 | DOCWELL | DOCCRV201001 | FRONT Docwell MKT Costa Rica en Next |
 | MEDISMART | MEDCR01001 | FRONT Medismart Costa Rica en .NET |
