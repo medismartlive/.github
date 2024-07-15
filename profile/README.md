@@ -25,7 +25,9 @@ Tipos de Repositorios:
 EL NOMBRE DE UN REPO SOLO DEBE DE TENER HASTA 25 CARACTERES PARA QUE CORRA BIEN EL PIPELINE
 
 | CLIENTE  | PROYECTO | DESCRIPCIÓN |  
-| ---------- | ------------------------------------ | ----------------------------------------------- | 
+| ---------- | ------------------------------------ | ----------------------------------------------- |
+| DOCWELL  | DOCCRECOM101001-BACK | Backend Docwell E-commerce PICSI Costa Rica en Next |
+| DOCWELL  | DOCCRECOM101001-TOOL | Agregado Docwell E-commerce PICSI Costa Rica en Next |
 | DOCWELL  | ECOMPICSI01001 | FRONT Docwell E-commerce Costa Rica en Next |
 | DOCWELL  | ECOMDOCCR01001 | FULL Docwell E-commerce Costa Rica en Next |  
 | DOCWELL | DOCCRV201001 | FRONT Docwell MKT Costa Rica en Next |
