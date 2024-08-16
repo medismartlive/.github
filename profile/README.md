@@ -26,6 +26,7 @@ EL NOMBRE DE UN REPO SOLO DEBE DE TENER HASTA 25 CARACTERES PARA QUE CORRA BIEN 
 
 | CLIENTE  | PROYECTO | DESCRIPCIÓN |  
 | ---------- | ------------------------------------ | ----------------------------------------------- |
+| MEDISMART  | MEDCLNP01001-BACK | Backend Not Platform Chile .NET |
 | DOCWELL  | DOCCRECOM101001-BACK | Backend Docwell E-commerce PICSI Costa Rica en Next |
 | DOCWELL  | DOCCRECOM101001-TOOL | Agregado Docwell E-commerce PICSI Costa Rica en Next |
 | DOCWELL  | ECOMPICSI01001 | FRONT Docwell E-commerce Costa Rica en Next |
