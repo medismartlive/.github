@@ -26,6 +26,7 @@ EL NOMBRE DE UN REPO SOLO DEBE DE TENER HASTA 25 CARACTERES PARA QUE CORRA BIEN 
 
 | CLIENTE  | PROYECTO | DESCRIPCIÓN |  
 | ---------- | ------------------------------------ | ----------------------------------------------- |
+| PEPSICO   | PEPLOGCO01001-API | API Login Pepsi Colombia |
 | POSITIVA  | POSEVOCO01001-API | API Evolución Positiva Colombia |
 | MEDISMART | MEDCLNP01001-BACK | Backend Not Platform Chile .NET |
 | DOCWELL   | MEDUBACKPICS01001 | Backend Docwell PICS Costa Rica en Next |
