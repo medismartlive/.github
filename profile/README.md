@@ -26,6 +26,7 @@ EL NOMBRE DE UN REPO SOLO DEBE DE TENER HASTA 25 CARACTERES PARA QUE CORRA BIEN 
 
 | CLIENTE  | PROYECTO | DESCRIPCIÓN |  
 | ---------- | ------------------------------------ | ----------------------------------------------- |
+| WEDOCTORSMX | HIRMX01001-MS | API que consume servicio externo empresa Seguros HRI México |
 | MEDISMART | TESTAPICL01001-TOOL | Script realiza test de rendimiento a API Authentication |
 | MEDISMART | RESPSERVCO01001-TOOL | Script realiza backup incremental Servidor Front - Colombia |
 | MEXICANABECAS   | MEXBECMX01001-API | API Mexicana de Becas - México |
