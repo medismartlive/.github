@@ -61,4 +61,5 @@ EL NOMBRE DE UN REPO SOLO DEBE DE TENER HASTA 25 CARACTERES PARA QUE CORRA BIEN 
 | MEDISMART | PAYCL01001-MS | Microservicio para API de Pagos |
 | MEDISMART | BILLINGCL01001-MS | Microservicio para API de Facturación |
 | MEDISMART | MEDCL04001-TOOL   | proyecto de configuracion de  la  aplicacion medical |
+| MEDISMART | MEDCL04002-TOOL   | ACL para invocar API de OPEN AI desde AIDA |
 
