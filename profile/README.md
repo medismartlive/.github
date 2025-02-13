@@ -26,6 +26,7 @@ EL NOMBRE DE UN REPO SOLO DEBE DE TENER HASTA 25 CARACTERES PARA QUE CORRA BIEN 
 
 | CLIENTE  | PROYECTO | DESCRIPCIÓN |  
 | ---------- | ------------------------------------ | ----------------------------------------------- |
+| MEDISMART | AUTOAGENDAM01001-MS | Servicio que retorna todos los idCliente de un username para Autoagendamiento - Medismart |
 | MEDISMART | SMSMFA01001-MS | Servicio que envía código MFA vía SMS - Medismart |
 | WEDOCTORSMX | HIRMX01001-MS | API que consume servicio externo empresa Seguros HRI México |
 | MEDISMART | TESTAPICL01001-TOOL | Script realiza test de rendimiento a API Authentication |
