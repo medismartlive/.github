@@ -26,6 +26,7 @@ EL NOMBRE DE UN REPO SOLO DEBE DE TENER HASTA 25 CARACTERES PARA QUE CORRA BIEN 
 
 | CLIENTE  | PROYECTO | DESCRIPCIÓN |  
 | ---------- | ------------------------------------ | ----------------------------------------------- |
+| ALLIANZ | VITALLCO02001-MS | Servicio mostrar directorios de Terapias y Laboratorios Allianz (VitAllianz) - Medismart Colombia |
 | ALLIANZ | VITALLCO01001-MS | Servicio para registrar reembolsos para Cliente Allianz (VitAllianz) - Medismart Colombia |
 | MEDISMART | CENTROCLICO01001-MS | Servicio para agregar / eliminar administradores de centros clínicos - Medismart Colombia |
 | EMERGENCIAS MEDICAS CO | EMERMEDCO01001-MS | Servicio que retorna un listado de directorio médico para el ecosistema Emergencias Médicas - Medismart Colombia |
