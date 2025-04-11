@@ -26,6 +26,7 @@ EL NOMBRE DE UN REPO SOLO DEBE DE TENER HASTA 25 CARACTERES PARA QUE CORRA BIEN 
 
 | CLIENTE  | PROYECTO | DESCRIPCIÓN |  
 | ---------- | ------------------------------------ | ----------------------------------------------- |
+| ALLIANZ | VITALLCO03001-MS | Servicio integración atenciones presenciales - Don Doctor (VitAllianz) - Medismart Colombia |
 | WEDOCTORS | NOTPLATMX01001-MS | Servicios adicionales flujo Not Platform - Wedoctors Mexico |
 | ALLIANZ | VITALLCO02001-MS | Servicio mostrar directorios de Terapias y Laboratorios Allianz (VitAllianz) - Medismart Colombia |
 | ALLIANZ | VITALLCO01001-MS | Servicio para registrar reembolsos para Cliente Allianz (VitAllianz) - Medismart Colombia |
