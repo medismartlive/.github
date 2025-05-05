@@ -26,7 +26,7 @@ EL NOMBRE DE UN REPO SOLO DEBE DE TENER HASTA 25 CARACTERES PARA QUE CORRA BIEN 
 
 | CLIENTE  | PROYECTO | DESCRIPCIÓN |  
 | ---------- | ------------------------------------ | ----------------------------------------------- |
-| SEGUROS MUNDIAL CO | SEGMUNCO01001 | Servicio agregar data adicional registro usuarios - Ecosistema Protegemos Tus Pasos - Seguros Mundial Colombia | 
+| SEGUROS MUNDIAL CO | SEGMUNCO01001-MS | Servicio agregar data adicional registro usuarios - Ecosistema Protegemos Tus Pasos - Seguros Mundial Colombia | 
 | MEDISMART CO | MEDCO03001 | Servicio Modal Psicología Atención Inmediata - Colombia | 
 | MEDISMART CO | MEDCO02001 | Servicio Acepta Terminos - Colombia | 
 | ALLIANZ | VITALLCO05001-MS | Servicio altas y bajas - usuarios Vitallianz - Medismart Colombia |
