@@ -26,6 +26,8 @@ EL NOMBRE DE UN REPO SOLO DEBE DE TENER HASTA 25 CARACTERES PARA QUE CORRA BIEN 
 
 | CLIENTE  | PROYECTO | DESCRIPCIÓN |  
 | ---------- | ------------------------------------ | ----------------------------------------------- |
+| MEDISMART CO | MEDCO05001-MS | Servicio agregar botones v2 Home Ecosistemas - Colombia | 
+| MEDISMART CO | MEDCO04001-MS | Servicio agregar usuario a la tabla PersonasConvenio - Colombia | 
 | SEGUROS DEL ESTADO CO | SEGESTCO01001-MS | Servicio agregar data adicional registro tutores - Ecosistema Seguros del Estado Colombia | 
 | SEGUROS MUNDIAL CO | SEGMUNCO01001-MS | Servicio agregar data adicional registro usuarios - Ecosistema Protegemos Tus Pasos - Seguros Mundial Colombia | 
 | MEDISMART CO | MEDCO03001-MS | Servicio Modal Psicología Atención Inmediata - Colombia | 
