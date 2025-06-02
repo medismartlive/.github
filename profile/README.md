@@ -33,14 +33,14 @@ EL NOMBRE DE UN REPO SOLO DEBE DE TENER HASTA 25 CARACTERES PARA QUE CORRA BIEN 
 | SEGUROS MUNDIAL CO | SEGMUNCO01001-MS | Servicio agregar data adicional registro usuarios - Ecosistema Protegemos Tus Pasos - Seguros Mundial Colombia | 
 | MEDISMART CO | MEDCO03001-MS | Servicio Modal Psicología Atención Inmediata - Colombia | 
 | MEDISMART CO | MEDCO02001-MS | Servicio Acepta Terminos - Colombia | 
-| ALLIANZ | VITALLCO05001-MS | Servicio altas y bajas - usuarios Vitallianz - Medismart Colombia |
-| ALLIANZ | VITALLCO04001-MS | Servicio integración Billetera - eCollect (VitAllianz) - Medismart Colombia |
-| ALLIANZ | VITALLCO03001-MS | Servicio integración atenciones presenciales - Don Doctor (VitAllianz) - Medismart Colombia |
+| ALLIANZ CO | VITALLCO05001-MS | Servicio altas y bajas - usuarios Vitallianz - Medismart Colombia |
+| ALLIANZ CO | VITALLCO04001-MS | Servicio integración Billetera - eCollect (VitAllianz) - Medismart Colombia |
+| ALLIANZ CO | VITALLCO03001-MS | Servicio integración atenciones presenciales - Don Doctor (VitAllianz) - Medismart Colombia |
 | WEDOCTORS | NOTPLATMX01001-MS | Servicios adicionales flujo Not Platform - Wedoctors Mexico |
-| ALLIANZ | VITALLCO02001-MS | Servicio mostrar directorios de Terapias y Laboratorios Allianz (VitAllianz) - Medismart Colombia |
-| ALLIANZ | VITALLCO01001-MS | Servicio para registrar reembolsos para Cliente Allianz (VitAllianz) - Medismart Colombia |
-| MEDISMART | CENTROCLICO01001-MS | Servicio para agregar / eliminar administradores de centros clínicos - Medismart Colombia |
-| EMERGENCIAS MEDICAS CO | EMERMEDCO01001-MS | Servicio que retorna un listado de directorio médico para el ecosistema Emergencias Médicas - Medismart Colombia |
+| ALLIANZ CO | VITALLCO02001-MS | Servicio mostrar directorios de Terapias y Laboratorios Allianz (VitAllianz) - Medismart Colombia |
+| ALLIANZ CO | VITALLCO01001-MS | Servicio para registrar reembolsos para Cliente Allianz (VitAllianz) - Medismart Colombia |
+| MEDISMART CO | CENTROCLICO01001-MS | Servicio para agregar / eliminar administradores de centros clínicos - Medismart Colombia |
+| MEDISMART CO | EMERMEDCO01001-MS | Servicio que retorna un listado de directorio médico para el ecosistema Emergencias Médicas - Medismart Colombia |
 | MEDISMART | AUTOAGEND01001-MS | Servicio que retorna todos los idCliente de un username para Autoagendamiento - Medismart |
 | MEDISMART | SMSMFA01001-MS | Servicio que envía código MFA vía SMS - Medismart |
 | WEDOCTORSMX | HIRMX01001-MS | API que consume servicio externo empresa Seguros HRI México |
