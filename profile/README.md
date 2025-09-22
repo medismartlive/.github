@@ -29,6 +29,7 @@ EL NOMBRE DE UN REPO SOLO DEBE DE TENER HASTA 25 CARACTERES PARA QUE CORRA BIEN 
 | POSITIVA CO | POSCO06001-MS | Servicio obtiene los usuarios de un centro clinico getUsuariosCentroClinico - Positiva - Colombia |
 | POSITIVA CO | POSCO05001-MS | Servicio de registro encuesta de satisfacción de atenciones - Positiva - Colombia |
 | POSITIVA CO | POSCO04001-MS | Servicio actualización de fecha de nacimiento de usuarios que se loguean - Positiva - Colombia |
+| POSITIVA CO | POSCO03002-MS | Servicio solicitud de número correlativo de empresa 3T - Positiva - Colombia |
 | POSITIVA CO | POSCO03001-MS | Servicio creación número correlativo para empresa 3T - Positiva - Colombia |
 | POSITIVA CO | POSCO02001-MS | Servicio log de revisión/actualización usuarios con fecha de nacimiento 1900 - Positiva - Colombia |
 | POSITIVA CO | POSCO01001 | Servicio revisión/actualización usuarios con fecha de nacimiento 1900 - Positiva - Colombia |
