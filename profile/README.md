@@ -26,7 +26,6 @@ EL NOMBRE DE UN REPO SOLO DEBE DE TENER HASTA 25 CARACTERES PARA QUE CORRA BIEN 
 
 | CLIENTE  | PROYECTO | DESCRIPCIÓN |  
 | ---------- | ------------------------------------ | ----------------------------------------------- |
-MEDCO06001-MS
 | MEDISMART CO | MEDCO07001-MS | Servicio clon de services.medismart.live/agendamientos/atenciones/{idAtencion} - Colombia | 
 | MEDISMART CO | POSCO08001-MS | Servicio obtien Servicio pasra actualizar CodigoTelefono a usuarios de Colombia que este vacio o en "null" |
 | POSITIVA CO | POSCO07001-MS | Servicio obtiene la disponibilidad de horas (con huso horario -5), de médicos por especialidad en centro clinico Positiva Seguros - Positiva - Colombia |
