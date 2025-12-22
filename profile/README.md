@@ -26,6 +26,7 @@ EL NOMBRE DE UN REPO SOLO DEBE DE TENER HASTA 25 CARACTERES PARA QUE CORRA BIEN 
 
 | CLIENTE  | PROYECTO | DESCRIPCIÓN |  
 | ---------- | ------------------------------------ | ----------------------------------------------- |
+| MEDISMART CO | MEDCO12001-MS | Servicio de WTW Colombia (CRUD), para interactuar con ecuesta | 
 | ALLIANZ CO | VITALLCO07001-MS | Servicio para envio de correo- Colombia | 
 | ALLIANZ CO | VITALLCO06001-MS | Servicio para directorio veterinario Vitallianz - Colombia | 
 | MEDISMART CO | MEDCO10001-MS | Servicio para obtener el idPais correspondiente a un usuario para usar en validaciones - Colombia | 
