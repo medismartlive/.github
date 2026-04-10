@@ -26,6 +26,7 @@ EL NOMBRE DE UN REPO SOLO DEBE DE TENER HASTA 25 CARACTERES PARA QUE CORRA BIEN 
 
 | CLIENTE  | PROYECTO | DESCRIPCIÓN |  
 | ---------- | ------------------------------------ | ----------------------------------------------- |
+| MEDISMART CO | POSCO08001-MS | Servicio Medismart Colombia, para interactuar con servicios externos (3T) de Positiva | 
 | MEDISMART CO | MEDCO15001-MS | Servicio Medismart Colombia, para cargas masivas en centro clínico de Positiva | 
 | MEDISMART CO | MEDCO14001-MS | Servicio Medismart Colombia, solicitud guardería mascotas presencial | 
 | MEDISMART CO | MEDCO13001-MS | Servicio Medismart Colombia, para saber la fecha de creación de un plan, asociado a cada usuario | 
