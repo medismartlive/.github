@@ -26,6 +26,7 @@ EL NOMBRE DE UN REPO SOLO DEBE DE TENER HASTA 25 CARACTERES PARA QUE CORRA BIEN 
 
 | CLIENTE  | PROYECTO | DESCRIPCIÓN |  
 | ---------- | ------------------------------------ | ----------------------------------------------- |
+| MEDISMART CO | VITALLCO08001-MS | Servicio para obtener informacion sobre directorio medico - Allianz | 
 | MEDISMART CO | ALLCO01001-MS | Servicio para landing de registro Allianz de tu lado - Colombia | 
 | MEDISMART CO | MEDCO17001-MS | Servicio Medismart Colombia, que gestiona la academia virtual para dicho país | 
 | MEDISMART CO | MEDCO16001-MS | Servicio Medismart Colombia, guarda información de acompañante para usuarios menores de edad en Colombia | 
