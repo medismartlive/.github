@@ -26,6 +26,7 @@ EL NOMBRE DE UN REPO SOLO DEBE DE TENER HASTA 25 CARACTERES PARA QUE CORRA BIEN 
 
 | CLIENTE  | PROYECTO | DESCRIPCIÓN |  
 | ---------- | ------------------------------------ | ----------------------------------------------- |
+| MEDISMART CO | MEDCO20001-MS | Servicio Medismart Colombia, que gestiona dla creación de código QR para dicho país |
 | MEDISMART CO | MEDCO19001-MS | Servicio Medismart Colombia, que gestiona directorio veterinario para dicho país | 
 | MEDISMART CO | MEDCO18001-MS | Servicio Medismart Colombia, que gestiona la creación de código QR para incapacidades para dicho país | 
 | MEDISMART CO | VITALLCO08001-MS | Servicio para obtener informacion sobre directorio medico - Allianz | 
